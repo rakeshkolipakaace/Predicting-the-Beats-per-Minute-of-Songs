@@ -40,7 +40,7 @@ Four data science warriors entered their first battlefield. Armed with Python, f
 <a href="https://www.kaggle.com/rakesh630"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
 <a href="https://github.com/rakeshkolipakaace"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="25%"> 
 <img src="https://github.com/ranjith93250.png" width="150px" style="border-radius: 50%;" alt="Ranjith Kumar Digutla"/><br />
 <b>⚡ Ranjith Kumar Digutla</b><br />
 <i>ML Engineer</i><br />
