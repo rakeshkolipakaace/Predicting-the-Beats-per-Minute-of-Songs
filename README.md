@@ -1,6 +1,6 @@
 # 🎵 PREDICTING BEATS-PER-MINUTE OF SONGS 🎵
  
-<div align="center"> 
+<div align="center">  
     
 ![Kaggle](https://img.shields.io/badge/Kaggle-Playground%20S5E9-20BEFF?style=for-the-badge&logo=kaggle)  
 ![Rank](https://img.shields.io/badge/RANK-1246%2F2581-FF6B6B?style=for-the-badge)    
@@ -11,7 +11,7 @@
 
 > *"We didn't just participate—we DOMINATED our debut!"*
 
-**29 Submissions | 2 Best Models | Infinite Determination**
+**29 Submissions | 2 Best Models | Infinite Determination** 
  
 </div>
 
@@ -23,7 +23,7 @@ Four data science warriors entered their first battlefield. Armed with Python, f
 
 ### 👥 THE CORE SQUAD
 
-<table>
+<table> 
 <tr>
 <td align="center" width="25%">
 <img src="https://github.com/mohan13krishna.png" width="150px" style="border-radius: 50%;" alt="Mohan Krishna Thalla"/><br />
@@ -35,7 +35,7 @@ Four data science warriors entered their first battlefield. Armed with Python, f
 <td align="center" width="25%">
 <img src="https://github.com/rakeshkolipakaace.png" width="150px" style="border-radius: 50%;" alt="Rakesh Kolipaka"/><br />
 <b>🔧 Rakesh Kolipaka</b><br />
-<i>Data Scientist</i><br />
+<i>Data Scientist</i><br /> 
 <i>Hyperparameter Wizard</i><br /><br />
 <a href="https://www.kaggle.com/rakesh630"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
 <a href="https://github.com/rakeshkolipakaace"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
